@@ -1,6 +1,6 @@
 
 # ignore env folder.
-**/.env
+**/env
 
 # ignore pycache folders
 **/__pycache__/
